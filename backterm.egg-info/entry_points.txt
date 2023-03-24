@@ -1,0 +1,2 @@
+[console_scripts]
+backterm = backterm:main

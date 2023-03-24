@@ -45,4 +45,4 @@ BackTerm uses the Unsplash API to download images. By using BackTerm, you agree 
 To comply with the guidelines, BackTerm automatically downloads the attribution information for each image you download and displays it in the console when the image is set as the background. Please ensure that you provide proper attribution when using images downloaded by BackTerm.
 
 ## License
-[INSERT LICENSE HERE]
+[MIT](LICENSE)
