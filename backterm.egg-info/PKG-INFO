@@ -1,8 +1,0 @@
-Metadata-Version: 2.1
-Name: backterm
-Version: 1.0
-Summary: Download a random image from Unsplash and set it as the background for the Windows Terminal.
-Home-page: https://github.com/hadasvolk/BackTerm
-Author: Hadas Volkov
-Author-email: hadasvol@pm.me
-License-File: LICENSE
