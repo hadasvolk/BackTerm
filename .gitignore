@@ -26,3 +26,4 @@ venv/
 # setuptools
 *.egg-info/
 dist/
+backtery.egg-info/
