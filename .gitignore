@@ -27,3 +27,6 @@ venv/
 *.egg-info/
 dist/
 backterm.egg-info/
+
+# key
+Unsplash.api.key
