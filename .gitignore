@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+*.log.*
+log/
+
+# Temporary files
+*.bak
+*.swp
+*~
+.#*
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+
+# VSCode
+.vscode/
+
+# setuptools
+*.egg-info/
+dist/
